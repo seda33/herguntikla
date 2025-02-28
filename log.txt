@@ -8,3 +8,4 @@ Bugün de commit attım! Pzt 17.02.2025
 "Bugün de commit attım! Cum 21.02.2025" 
 "Bugün de commit attım! Cmt 22.02.2025" 
 "Bugün de commit attım! Paz 23.02.2025" 
+"Bugün de commit attım! Cum 28.02.2025" 
