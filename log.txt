@@ -13,3 +13,4 @@ Bugün de commit attım! Pzt 17.02.2025
 "Bugün de commit attım! Per 06.03.2025" 
 "Bugün de commit attım! Paz 09.03.2025" 
 "Bugün de commit attım! �ar 12.03.2025" 
+"Bugün de commit attım! �ar 26.03.2025" 
